@@ -6,4 +6,4 @@
 def to_str(n:float) -> str:
     """converts a float number to string
     """
-    return str(n)
+    return str(n) + '\n'
