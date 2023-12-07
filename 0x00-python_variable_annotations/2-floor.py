@@ -4,5 +4,7 @@
 
 
 def floor(n:float) -> int:
+    """floor of a floating number
+    """
     return int(n)
 
